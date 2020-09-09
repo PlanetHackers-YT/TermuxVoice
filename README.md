@@ -14,7 +14,7 @@ $ apt-get upgrade -y
 $ pkg install mpv -y
 ```
 ```
-$ git clone https://github.com/OnlineHacKing/Voice-Welcome.git
+$ git clone https://github.com/PlanetHackers-Yt/TermuxVoice
 ```
 ```
 $ cd Voice-Welcome
