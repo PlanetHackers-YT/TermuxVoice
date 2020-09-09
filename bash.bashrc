@@ -38,7 +38,7 @@ echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mYouTube   \e[1;91m 
 echo "" 
 echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97m@PlanetHackers-YT"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTelegram  \e[1;91m =  \e[1;97m@_thearjun_"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mInstagram  \e[1;91m =  \e[1;97m@_thearjun_"
 echo ""
 echo ''
 date | lolcat
