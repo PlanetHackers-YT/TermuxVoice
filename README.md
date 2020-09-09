@@ -17,7 +17,7 @@ $ pkg install mpv -y
 $ git clone https://github.com/PlanetHackers-Yt/TermuxVoice
 ```
 ```
-$ cd Voice-Welcome
+$ cd TermuxVoice
 ```
 ```
 $ chmod +x *
