@@ -25,4 +25,4 @@ $ chmod +x *
 ```
 $ sh install.sh
 ```
-### 🤠SUBSCRIBE ON YOUTUBE : https://m.youtube.com/channel/UCeLPNpBz3FKfh8FiHDhNcRA
+### 🤠SUBSCRIBE ON YOUTUBE : https://m.youtube.com/c/PlanetHackers
